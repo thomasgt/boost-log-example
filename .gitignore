@@ -1,3 +1,13 @@
+# Build directories
+build
+build-*
+cmake-build-*
+
+# IDE directories
+.idea
+.vs
+.vscode
+
 # Prerequisites
 *.d
 
